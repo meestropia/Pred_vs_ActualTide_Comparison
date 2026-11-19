@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Pred_vs_ActualTide_Comparisson.iml" filepath="$PROJECT_DIR$/.idea/Pred_vs_ActualTide_Comparisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pred_vs_ActualTide_Comparison.iml" filepath="$PROJECT_DIR$/.idea/Pred_vs_ActualTide_Comparison.iml" />
     </modules>
   </component>
 </project>
